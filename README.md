@@ -1,3 +1,4 @@
+
 ## deep Learning
 
 
@@ -61,7 +62,15 @@
 
 
 
+[You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css)
+
+
 [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+
+
+
+
 
 
 
@@ -80,3 +89,8 @@
 [Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings/)
 
 [Empowering everyone to build reliable and efficient software.](https://github.com/rust-lang/rust)
+
+
+
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
