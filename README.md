@@ -70,3 +70,13 @@
 [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 [advanced-java](https://github.com/doocs/advanced-java)
+
+
+
+## Rust语言学习
+
+[官网](https://www.rust-lang.org/)
+
+[Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings/)
+
+[Empowering everyone to build reliable and efficient software.](https://github.com/rust-lang/rust)
