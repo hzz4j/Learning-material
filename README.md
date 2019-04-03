@@ -93,7 +93,30 @@
 
 
 
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
+
+
+
+
+## github使用
+
+[如何在 GitHub 上找到你要的代码?](http://www.hmaccp.com/news/rmht/285.html)
+
+
+
+## Linux
+
+[Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/crontab.html)
+
+
+## web攻击
+
+[书籍-Web Hacking 101 中文版](https://wizardforcel.gitbooks.io/web-hacking-101/content/)
+
+
+[github-hacker101](https://github.com/Hacker0x01/hacker101)
+
+[视频-xss](https://www.youtube.com/watch?v=cbmBDiR6WaY)
 
 
 
@@ -103,4 +126,14 @@
 
 [北理GMFTBY](https://github.com/gmftbyGMFTBY)
 
-[Pzoom522](https://github.com/Pzoom522)
+[北航Pzoom522](https://github.com/Pzoom522)
+
+[北大LoLo](https://github.com/Luolc)
+
+[北大snowkylin](https://github.com/snowkylin)
+
+
+
+
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
