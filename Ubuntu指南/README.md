@@ -32,3 +32,14 @@ alias xxnet='cd /home/hzz/Documents/XX-Net-3.13.1 && /bin/sh ./start'
 ```
 
 > 目前是启动xxnet后不能关闭该终端
+
+
+## sphinx
+
+[安装参照博客](https://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_013_rst_spinx.html) 以及[官网](http://www.sphinx-doc.org/en/master/usage/quickstart.html)
+
+
+```
+conda install sphinx
+conda install -c conda-forge restructuredtext_lint 
+```
