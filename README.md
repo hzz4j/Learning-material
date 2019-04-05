@@ -1,4 +1,6 @@
 
+> 本项目有一个自动提交脚本auto_run.py,每隔一个小时就会提交一次
+
 ## deep Learning
 
 

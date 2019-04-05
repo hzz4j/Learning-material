@@ -1,6 +1,8 @@
 '''
-
+crontab定时计划，每隔一个小时刷新提交本项目
+0 */1 * * * cd /home/hzz/Desktop/github/Learning-material && /usr/bin/python3 auto_run.py
 '''
+
 import os
 from datetime import datetime, timedelta, timezone
 
