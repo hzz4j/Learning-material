@@ -38,6 +38,8 @@ alias xxnet='cd /home/hzz/Documents/XX-Net-3.13.1 && /bin/sh ./start'
 
 [安装参照博客](https://www.cnblogs.com/zhaojiedi1992/p/zhaojiedi_python_013_rst_spinx.html) 以及[官网](http://www.sphinx-doc.org/en/master/usage/quickstart.html)
 
+> [更加详细的文档](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html#quick-start-video)
+
 
 ```
 conda install sphinx
