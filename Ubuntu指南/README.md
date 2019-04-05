@@ -45,3 +45,23 @@ alias xxnet='cd /home/hzz/Documents/XX-Net-3.13.1 && /bin/sh ./start'
 conda install sphinx
 conda install -c conda-forge restructuredtext_lint 
 ```
+
+
+### 主题
+
+[主题官网](https://sphinx-themes.org/)
+
+> 需要安装 **sphinx_theme** [官网](https://pypi.org/project/sphinx-theme/)
+
+```bash
+pip install sphinx_theme
+```
+
+选择一个主题，然后点击conf.py,复制相应的代码到自己的conf.py,如：
+
+```python
+#---sphinx-themes-----
+html_theme = 'neo_rtd_theme'
+import sphinx_theme
+html_theme_path = [sphinx_theme.get_html_theme_path()]
+```
