@@ -1,5 +1,5 @@
 '''
-for green square
+
 '''
 import os
 from datetime import datetime, timedelta, timezone
@@ -17,10 +17,10 @@ utc_dt = datetime.utcnow().replace(tzinfo=timezone.utc)
 bj_dt = utc_dt.astimezone(timezone(timedelta(hours=8)))
 
 content = "Auto update by robot instead of human(hzz) "
-with open("README_update.md","w") as f:
+with open("README_UPDATE.md","w") as f:
     f.write(content+"at: {}".format(bj_dt.strftime('%Y-%m-%d %H:%M:%S')))
 #os.system('echo '+content+'Last update : {} >> README.md'.format(bj_dt.strftime('%Y-%m-%d %H:%M:%S')))
 
-os.system("git add README_update.md")
-os.system('git commit -m "update"')
+os.system("git add .")
+os.system('git commit -m "update: {}"'.format(bj_dt.strftime('%Y-%m-%d %H:%M:%S')))
 os.system('git push')
