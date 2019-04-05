@@ -20,3 +20,15 @@ source ~/.bashrc
 我就右上角点击电源，佯装要poweroff
 然后他就立马出来了
 反正很玄学
+
+
+## XX-Net
+
+
+```
+vi ~/.bashrc
+cd到安装目录
+alias xxnet='cd /home/hzz/Documents/XX-Net-3.13.1 && /bin/sh ./start'
+```
+
+> 目前是启动xxnet后不能关闭该终端
