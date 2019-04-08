@@ -45,6 +45,21 @@
 [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 
 
+
+## computer vision
+
+[Liveness Detection with OpenCV](https://www.pyimagesearch.com/2019/03/11/liveness-detection-with-opencv/)
+
+[Capturing Images from Camera using Python and DirectShow](https://www.codeproject.com/Articles/1274094/Capturing-Images-from-Camera-using-Python-and-Dire)
+
+[opencv官网](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html)
+
+
+[Build a thin client deep learning camera with the Raspberry Pi, Flask, and YOLO](https://github.com/burningion/poor-mans-deep-learning-camera)
+
+
+
+
 ## paper with code
 
 [paper with code 网站](https://paperswithcode.com/)
