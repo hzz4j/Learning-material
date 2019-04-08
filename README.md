@@ -35,6 +35,10 @@
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)相应的[github](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 
+## 深度学习
+
+[《神经网络与深度学习》 Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io)
+
 
 ## machine learning 
 
