@@ -129,6 +129,12 @@
 
 
 
+## 算法
+
+[很不错的算法视频网站](https://www.ideserve.co.in/)
+[leetcode](https://leetcode.com/problemset/all/)
+
+
 ## 很有趣得人
 
 [北理HuYong](https://github.com/nghuyong)
