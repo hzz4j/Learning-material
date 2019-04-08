@@ -36,6 +36,10 @@
 
 
 
+## machine learning 
+
+[homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+
 
 ## paper with code
 
