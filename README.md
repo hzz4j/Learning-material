@@ -154,6 +154,28 @@
 [leetcode](https://leetcode.com/problemset/all/)
 
 
+
+
+## 学习充电的地方
+
+[google-codelabs](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+
+[google-machine-learning](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
+[udacity-tensorflow](https://classroom.udacity.com/courses/ud187/lessons/ff58baf7-22c2-4052-9f9f-a8b2415ba7df/concepts/d1fd8523-2e59-4f3b-8e0c-cfa0a636760b)
+
+[IBM-推荐系统](https://developer.ibm.com/cn/patterns/build-a-recommender-with-apache-spark-and-elasticsearch/)
+
+[IBM-线程池介绍](https://www.ibm.com/developerworks/cn/java/l-threadPool/index.html#icomments)
+
+
+
+
+
+
+
+
+
 ## 很有趣得人
 
 [北理HuYong](https://github.com/nghuyong)
@@ -171,5 +193,10 @@
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+
+
+
+
 
 
