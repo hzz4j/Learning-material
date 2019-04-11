@@ -136,6 +136,14 @@
 
 [Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/crontab.html)
 
+[Kernel Hacking study materials collection](https://github.com/yeyintminthuhtut/Awesome-Study-Resources-for-Kernel-Hacking)
+
+
+[learning Linux (Unix) and collecting resources about it](https://github.com/pwittchen/learning-linux)
+
+
+
+
 
 ## web攻击
 
@@ -147,11 +155,20 @@
 [视频-xss](https://www.youtube.com/watch?v=cbmBDiR6WaY)
 
 
+[A curated list of Web Security materials and resources](https://github.com/qazbnm456/awesome-web-security#xss---cross-site-scripting)
+
 
 ## 算法
 
 [很不错的算法视频网站](https://www.ideserve.co.in/)
 [leetcode](https://leetcode.com/problemset/all/)
+
+
+
+
+## awesome
+
+[ Awesome lists about all kinds of interesting topics   ](https://github.com/sindresorhus/awesome#books)
 
 
 
@@ -172,7 +189,12 @@
 
 
 
+## Spring
 
+[The "REST With Spring" Course](https://github.com/eugenp/tutorials)
+
+
+[SpringAll](https://github.com/wuyouzhuguli/SpringAll)
 
 
 
