@@ -6,9 +6,8 @@
 
 ## Linux常用指令操作
 
-[linux basic command](190411-Linux-basic-command.md)
+[linux basic command](linux-common-command.md)
 
-[linux medium command](190411-Linux-medium-command.md)
 
 
 ## 网易云音乐

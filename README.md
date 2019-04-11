@@ -44,7 +44,7 @@
 
 [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 
-
+[A Course in Machine Learning](https://github.com/hal3/ciml)
 
 ## computer vision
 
