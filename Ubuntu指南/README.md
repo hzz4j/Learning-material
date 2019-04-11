@@ -2,6 +2,15 @@
 > ubuntu 18.04LTS下常用的软件
 
 
+
+
+## Linux常用指令操作
+
+[linux basic command](190411-Linux-basic-command.md)
+
+[linux medium command](190411-Linux-medium-command.md)
+
+
 ## 网易云音乐
 
 1. 配置命令行快捷键，以后在终端直接输入music启动

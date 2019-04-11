@@ -91,7 +91,9 @@ The regular "cp" command will not let you copy directories, but if you use the "
 
 
 
- "rmdir" command only deletes empty.
+"rmdir" command only deletes empty.The command that allows you to remove an entire directory tree is "rm -r"
+
+
 
 ### 磁盘文与文件系统
 
@@ -126,3 +128,68 @@ figure out which disk contains a particular file or directory and then display s
 >  find out how much disk space is free on the disk where your current directory resides
 
 > df .
+
+
+
+
+### ps
+
+> process status
+
+To get a detailed list of all processes, type
+
+> ps aux
+
+![](./imgs/ps-1.png)
+
+
+- USER - the process owner
+
+- PID - the process ID (you will need this)
+
+- START - the date or time when this process started
+
+- TIME - **the amount of CPU time used by this process**
+
+- COMMAND - **the command that started the process**
+
+
+
+### 管道
+
+'|'： the only difference is that it sends the output of a command as the input to another command
+
+
+The output of "cat joke-1 joke-2" is sent directly to the printer, rather than to a file. This is a very powerful technique
+
+>   cat joke-1 joke-2 | lpr -P zephyr
+
+![](./imgs/pipe.png)
+
+
+
+### grep
+
+if you wanted to find every occurrence of the word "gold" in file "metals", you would type
+
+> grep gold metals
+
+
+### kill
+
+
+do not assume that the command worked
+
+> kill PID
+
+grep" didn't display the line of headings because it didn't contain the word "rogue". 
+
+PID -- it's the first one with a number
+
+![](./imgs/kill.png)
+
+
+"kill immediately". To tell a process to die immediately, 
+
+> kill -9 PID
+
