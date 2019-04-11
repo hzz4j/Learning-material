@@ -3,9 +3,14 @@
 
 ## Module 1
 
-## cd
+### cd
 
 change directory
+
+切换到另一个用户的home目录
+
+> cd ~jester
+
 
 ### more
 
