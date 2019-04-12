@@ -42,3 +42,4 @@
 1. ctrl+enter 下一行
 2. ctrl+` 打开终端
 3. ctrl+shift+a 快速注释代码块
+4. ctrl+end  快速到文件末尾
