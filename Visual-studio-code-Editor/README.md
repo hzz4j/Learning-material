@@ -35,3 +35,10 @@
 [Visual Studio Code for Java: the Ultimate Guide 2019](https://dzone.com/articles/visual-studio-code-for-java-the-ultimate-guide-201)
 
 ![](./imgs/2.PNG)
+
+
+## 快捷键
+
+1. ctrl+enter 下一行
+2. ctrl+` 打开终端
+3. ctrl+shift+a 快速注释代码块
