@@ -73,3 +73,11 @@ html_theme = 'neo_rtd_theme'
 import sphinx_theme
 html_theme_path = [sphinx_theme.get_html_theme_path()]
 ```
+
+
+
+
+## 下载youtube音频
+
+[在youtube听到好听的music，下载下来](https://vubey.yt/download?id=4a580a7bcdb870a872cf8201781c052d)
+
