@@ -47,6 +47,7 @@ window.onload = function(){
         if(http.readyState == 4 && http.status == 200)
             console.log(JSON.parse(http.response));
     }
+    // true means asyn,false means syn
     http.open("GET","data/tweets.json",true);
     http.send();
     console.log("test")
