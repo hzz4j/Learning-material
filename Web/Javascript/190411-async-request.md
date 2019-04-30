@@ -25,7 +25,6 @@ readAsync(authors_loc,function(){
     console.log(authors);
 })
 
-
 ```
 
 ![](./imgs/js-3.png)
@@ -64,6 +63,12 @@ window.onload = function(){
 
 
 ```
+
+
+
+
+![](./imgs/js-4.png)
+
 
 ----------
 
@@ -122,6 +127,7 @@ windos.onload = function(){
 
 ```javascript
 //通过使用jquery提供的Promise接口，代码量减少，便于维护和管理
+//$.get 返回的对象是Promise
 //promise中最常用的方法是then
 windos.onload = function(){
     $.get("data/tweets.json").then(function(tweets){
@@ -144,7 +150,7 @@ windos.onload = function(){
 
 ```javascript
 //生成器方式处理嵌套异步请求
-
+//只要程序没有运行到结尾，next done就是false
 window.onload = function(){
 
     genWrap(function*(){
@@ -161,10 +167,12 @@ window.onload = function(){
         function handle(yielded){
             if(!yielded.done){
                 yielded.value.then(function(data){
+                    //传递data给yield结束后，以便生成器继续
                     return handle(gen.next(data));
                 });
             }
         }
+        return handle(gen.next());
     }
 
 
