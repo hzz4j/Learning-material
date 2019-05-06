@@ -71,9 +71,17 @@
 ![](https://user-images.githubusercontent.com/148698/28883373-29ed282a-777c-11e7-9035-700718d549b1.gif)
 
 
-## setter & getter方法
+## vscode插件
+
+### setter & getter方法
 
 + 插件  [Java Code Generators](https://marketplace.visualstudio.com/items?itemName=sohibe.java-generate-setters-getters)
+
+
+### Prettier - Code formatter
+
+保存自动格式美化代码
+
 
 
 
