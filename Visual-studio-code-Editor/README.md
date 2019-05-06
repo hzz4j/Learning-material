@@ -62,6 +62,21 @@
 ![](./imgs/2.PNG)
 
 
+
+
+
+## Override方法
+
+
+![](https://user-images.githubusercontent.com/148698/28883373-29ed282a-777c-11e7-9035-700718d549b1.gif)
+
+
+## setter & getter方法
+
++ 插件  [Java Code Generators](https://marketplace.visualstudio.com/items?itemName=sohibe.java-generate-setters-getters)
+
+
+
 ## 快捷键
 
 1. ctrl+enter 下一行
