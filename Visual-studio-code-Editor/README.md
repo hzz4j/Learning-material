@@ -80,7 +80,10 @@
 
 ### Prettier - Code formatter
 
-保存自动格式美化代码
+> 保存自动格式美化代码
+
+settings设置editor.formatOnSave 为true,即勾选
+
 
 
 
