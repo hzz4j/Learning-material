@@ -1,8 +1,8 @@
 ## Java输入问题
 
-> 会在该IDE中打开一个输入窗口
+> 会在该IDE中打开一个输入窗口,重点是更改console: integratedTerminal
 
-**launch.json**
+**launch.json 这个文件在.vscode目录下**
 ```java
 {
     "configurations": [
@@ -24,9 +24,34 @@
 }
 ```
 
+
+
+
 调试的时候直接点击debug
 
 ![](./imgs/1.PNG)
+
+
+
+
+## vscode 使用cmder作为终端
+
+更改settings
+
+1. 注释原来的cmd.exe
+2. 添加新的配置，路径为自己的cmder安装位置
+
+```json
+    // "terminal.integrated.shell.windows": "C:\\windows\\System32\\cmd.exe",
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.env.windows": {
+    "CMDER_ROOT": "C:\\tools\\cmder"
+    },
+```
+
+
+
+
 
 
 
