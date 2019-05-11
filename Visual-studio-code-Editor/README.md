@@ -85,6 +85,15 @@
 settings设置editor.formatOnSave 为true,即勾选
 
 
+### 导入jar包
+
+> 创建lib文件夹，将jar包放到里面
+
+1. 最好的方式的用eclipse打开项目，使用java build path 添加jar包,将依赖的jar包写入.classpath文件中。这样方法适合很多jar包一次性配置。
+2. 也可以手动添加 在.classpath文件中添加
+```
+<classpathentry kind="lib" path="lib/spring-aop-5.1.7.RELEASE-sources.jar"/>
+```
 
 
 
